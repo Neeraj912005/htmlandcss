@@ -1,0 +1,8 @@
+#parent{
+border: 1px solid red;
+width: 800px;
+}
+#child{
+border: 1px solid blue;
+width: 50%;
+}

@@ -1,0 +1,39 @@
+/*element selector*/
+/*li{
+    color: red;
+}
+    */
+    /*id selector*/
+    /*#list2{
+color: red;
+    }
+*/
+/*class selector*/
+/*.list5{
+    color: red;
+}
+    */
+/*psedo class anker tag me me curser le jane per red color ho jata  hai*/
+/*a:hover{
+    color: red;
+}
+    */
+    /*psedo element pahli line red ho jata  hai*/
+   /* p::first-line{
+        color: red;
+    }
+        */
+        /*attributes selector usse for in all link href in use in */
+       /* a[href="https://www.google.com"]{
+     color: red;
+        }
+     */
+     /*
+     input[type="password"]{
+     color:red;
+}*/
+/*
+*{
+    border: 1px solid red;
+}
+    */

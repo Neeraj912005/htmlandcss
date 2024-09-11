@@ -1,0 +1,16 @@
+@media screen{
+    P{
+        front: size 20px;
+    }
+}
+@media print{
+    p{
+     front-size:30px
+    }
+    img{
+display: none;
+    }
+    div{
+width: 50%;
+    }
+}
